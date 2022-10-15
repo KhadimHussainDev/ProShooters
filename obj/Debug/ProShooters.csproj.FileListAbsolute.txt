@@ -1,0 +1,11 @@
+D:\2nd Semester\ProShooters\bin\Debug\ProShooters.exe.config
+D:\2nd Semester\ProShooters\bin\Debug\ProShooters.exe
+D:\2nd Semester\ProShooters\bin\Debug\ProShooters.pdb
+D:\2nd Semester\ProShooters\obj\Debug\ProShooters.csproj.AssemblyReference.cache
+D:\2nd Semester\ProShooters\obj\Debug\ProShooters.csproj.SuggestedBindingRedirects.cache
+D:\2nd Semester\ProShooters\obj\Debug\ProShooters.csproj.CoreCompileInputs.cache
+D:\2nd Semester\ProShooters\obj\Debug\ProShooters.exe
+D:\2nd Semester\ProShooters\obj\Debug\ProShooters.pdb
+D:\2nd Semester\ProShooters\bin\Debug\EZInput.dll
+D:\2nd Semester\ProShooters\bin\Debug\EZInput.xml
+D:\2nd Semester\ProShooters\obj\Debug\ProShooters.csproj.CopyComplete
